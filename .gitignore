@@ -1,0 +1,14 @@
+# Mac files
+.DS_Store
+
+## Python Env
+venv/
+
+# Packaging
+dist/
+*.egg-info/
+
+## Testing
+test_*/
+sp-pypi-upload
+current.json
