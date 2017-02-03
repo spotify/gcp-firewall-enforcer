@@ -1,0 +1,14 @@
+[
+	{
+		"project_name" : "GCP Project Name",
+		"project" : "gcp-project-name-12345",
+		"firewall_db" : "/absolute/path/to/gcp-project-name-firewall-db.json",
+		"keyfile" : "/absolute/path/to/gcp-project-name-keyfile-12345.json"
+	},
+    {
+		"project_name" : "GCP Project Name #2",
+		"project" : "second-gcp-project-name-54321",
+		"firewall_db" : "/absolute/path/to/second-gcp-project-name-firewall-db.json",
+		"keyfile" : "/absolute/path/to/second-gcp-project-name-keyfile-54321.json"
+	}
+]
